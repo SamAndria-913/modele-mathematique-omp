@@ -1,4 +1,4 @@
-# Modèle OMₚ – Émergence d’équilibre dynamique à partir de deux champs vectoriels
+# Modèle OMP – Émergence d’équilibre dynamique à partir de deux champs vectoriels
 
 **Auteur** : ANDRIAMAHAZO Sambatra (Sam Andria)  
 **Date** : mai 2026  
