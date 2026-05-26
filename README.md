@@ -5,7 +5,7 @@
 **Licence** : MIT
 
 ## Résumé
-Ce dépôt contient le formalisme variationnel OMₚ pour la morphogenèse de structures macroscopiques à partir de deux champs vectoriels A et B couplés.  
+Ce dépôt contient le formalisme variationnel OMP pour la morphogenèse de structures macroscopiques à partir de deux champs vectoriels A et B couplés.  
 - Énergie locale : `E_loc = (||C||-1)²`  
 - Paramètre d’ordre : `ρ = sigmoïde(θ – E_loc)`  
 - Fonctionnelle de Lyapunov assurant la stabilité  
