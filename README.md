@@ -6,7 +6,7 @@
 
 ## Résumé
 Ce dépôt contient le formalisme variationnel OMP pour la morphogenèse de structures macroscopiques à partir de deux champs vectoriels A et B couplés.  
-- Énergie locale : `E_loc = (||C||-1)²`  
+- Énergie locale: E_loc = (||C|| - 1)^2, mesure l’écart à l’équilibre dynamique (||C|| = 1).  
 - Paramètre d’ordre : `ρ = sigmoïde(θ – E_loc)`  
 - Fonctionnelle de Lyapunov assurant la stabilité  
 - Cadre fonctionnel rigoureux dans l'espace de Sobolev $H^2(\Omega) \cap L^\infty(\Omega)$
