@@ -16,7 +16,7 @@ Ce dépôt contient le formalisme variationnel OMP pour la morphogenèse de stru
 
 ## Citation
 Si vous utilisez ce travail dans vos recherches, merci de citer :
-> Sam Andria (2026). *Modèle OMP : Émergence d’équilibre dynamique à partir de deux champs vectoriels*. Dépôt GitHub. https://github.com
+> Sam Andria (2026). *Modèle OMP : Émergence d’équilibre dynamique à partir de deux champs vectoriels*. Dépôt GitHub. [https://github.com](https://github.com/SamAndria-913/modele-mathematique-omp)
 
 ## Prochaines étapes
 - Relecture académique des équations aux dérivées partielles (EDP)
