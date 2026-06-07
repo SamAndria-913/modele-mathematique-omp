@@ -1,5 +1,7 @@
 # Modèle OMP – Émergence d’équilibre dynamique à partir de deux champs vectoriels
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20575603.svg)](https://doi.org/10.5281/zenodo.20575603)
+
 **Auteur** : ANDRIAMAHAZO Sambatra (Sam Andria)  
 **Date** : mai 2026  
 **Licence** : MIT
